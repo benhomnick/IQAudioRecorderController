@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FDWaveformView-FDWaveformView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>FDWaveformView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SCSiriWaveformView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>03A7A5CD5B996B207F87A2EB9091C6DC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>14539F172633B67775AAE4520B9459DD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4938D25D702A60D5B83CA4CDD035A9CF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6CEE7188AB1062F4ECEAC33217B4CCDE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8362F8C6A2509EBB00C68C386105C99A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DE80D5DC74EF65FAF446E09A589DE38D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
